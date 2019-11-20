@@ -10,4 +10,3 @@ foreach ($letters as $index => $letter) {
 }
 
 echo "<br>";
-echo "<br>";
